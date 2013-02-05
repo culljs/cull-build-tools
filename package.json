@@ -1,0 +1,19 @@
+{
+    "name": "cull-build-tools",
+    "version": "0.0.1",
+    "main": "./lib/cull-build-tools",
+    "description": "Cull.JS build tools.",
+    "author": { "name": "Christian Johansen and Magnar Sveen" },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/culljs/cull-build-tools.git"
+    },
+    "homepage": "https://github.com/culljs/cull-build-tools",
+    "engines": {
+        "node": "~0.6"
+    },
+    "devDependencies": {
+        "uglify-js": "~1.2",
+        "zeparser": "*"
+    }
+}
