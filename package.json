@@ -1,6 +1,6 @@
 {
     "name": "cull-build-tools",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "main": "./lib/cull-build-tools",
     "description": "Cull.JS build tools.",
     "author": { "name": "Christian Johansen and Magnar Sveen" },
